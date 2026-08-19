@@ -6,9 +6,6 @@ what sells. The other looks at what the discount programme is costing.
 The repo also carries the cleaning notebook and the SQL used for the same
 questions against a database copy of the table.
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.49%2B-red)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
